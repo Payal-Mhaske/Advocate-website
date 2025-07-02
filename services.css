@@ -1,0 +1,1624 @@
+body {
+    margin: 0;
+}
+
+/* 
+.services-section-1-navbar {
+    width: 100%;
+    background-color: #1D1D1D;
+} */
+
+.services-section-1 {
+    height: 100vh;
+    width: 100%;
+    background-image: url("services\ image/services_sec_1_bg_img.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-bg {
+    background-color: #0F110F;
+}
+
+.about-section-1-nav-links a {
+    font-family: Roboto Mono;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #ffffff;
+    margin-right: 0%;
+
+}
+
+
+.services-section-1-left-side-col1 {
+    display: flex;
+    flex-direction: column;
+    color: #ffffff;
+}
+
+.services-section-1-left-side-title1 {
+    font-family: Roboto Serif;
+    font-size: 5rem;
+    font-weight: 700;
+    margin-left: 4%;
+    margin-top: 34%;
+    margin-bottom: -3%;
+}
+
+.services-section-1-left-side-title2 {
+    font-family: Roboto Serif;
+    font-size: 5rem;
+    font-weight: 700;
+    margin-left: 4%;
+}
+
+.services-section-1-left-side-paragraph {
+    font-family: Roboto Serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-left: 4%;
+    margin-right: 8%;
+}
+
+.services-section-1-left-side-paragraph-button {
+    font-family: Roboto Serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: black;
+    background-color: #D6B43E;
+    width: 28%;
+    height: 6%;
+    border: none;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 4%;
+    padding: 1%;
+    border-radius: 10px;
+}
+
+.services-section-1-right-side-col1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.services-section-1-right-side-col1-img {
+    width: 69% !important;
+    margin-top: 19%;
+}
+
+/*------------------------------------------services section 2--------------------------------------------*/
+.services-section-2 {
+    height: 100vh;
+    width: 100%;
+    background-color: #1D1D1D;
+}
+
+.services-section-2-righ-side-top-img {
+    display: flex;
+}
+
+.services-section-2-righttop-img {
+    margin-top: 4%;
+    margin-left: 4%;
+}
+
+.services-section-1-title {
+    font-family: Roboto Serif;
+    color: #ffffff;
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin-left: 4%;
+}
+
+.line-hr {
+    margin-left: 5%;
+    border-top: 2px solid rgb(185, 184, 184);
+    width: 90%;
+    margin-top: 1.5%;
+}
+
+.services-section-2-main-images {
+    display: flex;
+}
+
+.services-section-2-main-image1 img {
+    margin-top: 5%;
+    margin-left: 9%;
+}
+
+.services-section-2-main-image1-title {
+    font-family: Roboto Serif;
+    color: #FFFFFF;
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.services-section-2-main-image2 img {
+    margin-top: 5%;
+}
+
+.services-section-2-main-image2-title {
+    font-family: Roboto Serif;
+    color: #FFFFFF;
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-left: 5%;
+    margin-right: 9%;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.services-section-2-main-image3 img {
+    margin-top: 5%;
+}
+
+.services-section-2-main-image3-title {
+    font-family: Roboto Serif;
+    color: #FFFFFF;
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-left: 0%;
+    margin-right: 9%;
+    text-align: center;
+    margin-top: 3%;
+}
+
+/*----------------------------------------------services section 3------------------------------------------------*/
+.services-section-3 {
+    height: 100vh;
+    width: 100%;
+    background-image: url("services\ image/services_sec_3_bg_img.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.services-section-3-right-top-image {
+    display: flex;
+    padding-top: 5%;
+    margin-left: 5%;
+}
+
+.services-section-3-main-content {
+    display: flex;
+}
+
+.services-section-3-right-side {
+    display: flex;
+    flex-direction: column;
+}
+
+.services-section-3-right-side-title {
+    color: #FFFFFF;
+    font-family: Roboto Serif;
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin-left: 8%;
+    margin-top: 3%;
+}
+
+.line-hr-section-3 {
+    margin-left: 8%;
+    border-top: 2px solid #C1C1C1;
+    width: 90%;
+    margin-top: 1.5%;
+}
+
+.services-section-3-right-side-paragraph {
+    color: #FFFFFF;
+    font-family: Roboto Serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.services-section-3-right-side-checklist {
+    color: #FFFFFF;
+    font-family: Inter;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+.checklist {
+    list-style: none;
+    margin-top: 5%;
+    margin-left: 4%;
+    font-size: 1rem;
+}
+
+.checklist li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2%;
+}
+
+.checklist li::before {
+    content: "✔";
+    font-size: 0.8rem;
+    color: white;
+    margin-right: 1%;
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 4%;
+    height: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.services-section-3-right-side {
+    display: flex;
+}
+
+.services-section-3-right-side img {
+    margin-top: -12%;
+    width: 95%;
+    height: 99.5%;
+}
+
+/*--------------------------------------------service section 4- family law----------------------------------------------------------*/
+.services-section-4-familylaw {
+    height: 100vh;
+    width: 100%;
+    background-color: #1D1D1D;
+}
+
+.services-section-4-familylaw-right-top-image {
+    display: flex;
+    padding-top: 4%;
+    margin-left: 5%;
+}
+
+.services-section-4-title {
+    font-family: Roboto Serif;
+    color: #FFFFFF;
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+.services-section-4-paragraph {
+    font-family: Roboto Serif;
+    color: #FFFFFF;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-left: 5%;
+}
+
+.line-hr-section-4 {
+    margin-left: 5%;
+    border-top: 2px solid #C1C1C1;
+    width: 90%;
+    margin-top: 1.5%;
+}
+
+.services-section-4-main-section {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.services-section-4-col1-image {
+    margin-bottom: -17%;
+    margin-left: 28%;
+}
+
+.content-box1 {
+    width: 100%;
+    border: 2px solid #D6B43E;
+    border-radius: 25px;
+    margin-bottom: 4%;
+}
+
+.box1,
+.box2,
+.box3,
+.box4 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.services-section-4-col1-title {
+    color: #FFFFFF;
+    font-family: Roboto Serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-align: center;
+    margin-left: 8%;
+    margin-right: 12%;
+    margin-top: 40%;
+}
+
+.services-section-4-col1-paragraph {
+    font-family: Roboto Serif;
+    color: #FFFFFF;
+    font-size: 1rem;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 13%;
+    margin-right: 12%;
+    margin-bottom: 8%;
+    padding: 1%;
+}
+
+.services-section-4-col2-title {
+    color: #FFFFFF;
+    font-family: Roboto Serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-align: center;
+    margin-left: 18%;
+    margin-right: 20%;
+    margin-top: 40%;
+}
+
+.services-section-4-col2-paragraph {
+    font-family: Roboto Serif;
+    color: #FFFFFF;
+    font-size: 1rem;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 11%;
+    margin-right: 16%;
+    margin-bottom: 8%;
+    padding: 1%;
+}
+
+.services-section-4-col3-title {
+    color: #FFFFFF;
+    font-family: Roboto Serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-align: center;
+    margin-left: 18%;
+    margin-right: 20%;
+    margin-top: 40%;
+}
+
+.services-section-4-col3-paragraph {
+    font-family: Roboto Serif;
+    color: #FFFFFF;
+    font-size: 1rem;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 12%;
+    margin-right: 8%;
+    margin-bottom: 8%;
+    padding: 1%;
+}
+
+.services-section-4-col4-title {
+    color: #FFFFFF;
+    font-family: Roboto Serif;
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-align: center;
+    margin-left: 29%;
+    margin-right: 31%;
+    margin-top: 40%;
+}
+
+
+.services-section-4-col4-paragraph {
+    font-family: Roboto Serif;
+    color: #FFFFFF;
+    font-size: 1rem;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 17%;
+    margin-right: 16%;
+    margin-bottom: 8%;
+    padding: 1%;
+}
+
+/*--------------------------------------servces section 5----------------------------------------------------------*/
+.services-section-5 {
+    height: 100vh;
+    background-color: #1D1D1D;
+}
+
+.services-section-5-right-top-image img {
+    padding-top: 2%;
+    margin-left: 5%;
+}
+
+.services-section-5-title {
+    font-family: Roboto Serif;
+    color: #FFFFFF;
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+.services-section-4-paragraph {
+    font-family: Roboto Serif;
+    color: #FFFFFF;
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-left: 5%;
+}
+
+.line-hr-section-5 {
+    margin-left: 5%;
+    border-top: 2px solid #C1C1C1;
+    width: 90%;
+    margin-top: 1.5%;
+}
+
+.services-section-5-main-section-list {
+    color: #D6D6D6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("services\ image/services_sec_5_right_side_img.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.list1 p {
+    font-family: Roboto Serif;
+    font-size: 1rem;
+    font-weight: 400;
+    background-color: #261F00;
+    border: 2px solid #D6B43E;
+    border-radius: 15px;
+    padding: 2% 2%;
+    padding-left: 7%;
+    margin-bottom: 4%;
+    margin-left: -58%;
+    margin-right: -53%;
+    margin-top: -3%;
+}
+
+.services_arrow_img1,
+.services_arrow_img2,
+.services_arrow_img3,
+.services_arrow_img4 {
+    margin-top: -28%;
+    margin-left: -56%;
+    width: 16px;
+}
+
+
+.services-section-5-main-section-list {}
+
+.services-section-5-form {
+    background-color: #D6B43E33;
+    color: #FFFFFF;
+    padding: 4%;
+    text-align: center;
+    border-radius: 15px;
+    width: 70%;
+    margin-left: 17%;
+}
+
+.services-section-5-form-title {
+    font-family: Montserrat;
+    font-size: 2rem;
+    font-weight: 500;
+    text-align: center;
+
+}
+
+.services-section-5-paragraph {
+    font-family: Montserrat;
+    font-size: 1rem;
+    font-weight: 500;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #FFFFFF;
+    border-radius: 12px;
+    max-width: 500px;
+    margin-left: 20%;
+}
+
+.form input {
+    color: #FFFFFF;
+    border: none;
+    padding: 3%;
+    font-size: 1rem;
+    flex: 1;
+    background-color: transparent;
+}
+
+.form button {
+    font-family: Open Sans;
+    font-size: 1rem;
+    font-weight: 400;
+    text-align: center;
+    background-color: #D6B43E;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: none;
+    padding: 2.5%;
+    padding-right: 2%;
+    margin-right: 0.6%;
+    width: 23%;
+
+}
+
+/* -------------------------------------services section 6- footer--------------------------------------------------> */
+.footer {
+    background-image: url("services\ image/services_sec_6_bg_img.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.footer-container {
+    color: #FFFFFF;
+}
+
+.column-1-header {
+    font-family: Roboto Serif;
+    padding-left: 4rem;
+    padding-top: 4rem;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.column-1-paragraph {
+    font-family: Roboto Serif;
+    padding-left: 4rem;
+    padding-top: 31%;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.column-2-header {
+    font-family: Roboto Serif;
+    padding-left: 4rem;
+    padding-top: 4rem;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.recent-news {
+    font-family: Roboto Serif;
+    padding: 25px;
+    padding-left: 4rem;
+}
+
+.list {
+    font-family: Roboto Serif;
+    padding-bottom: 25px;
+}
+
+.column-3-header {
+    font-family: Roboto Serif;
+    padding-left: 4rem;
+    padding-top: 4rem;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.links {
+    padding: 25px;
+    padding-left: 4rem;
+    list-style: none;
+
+}
+
+.links li {
+    padding-bottom: 25px;
+}
+
+.links li a {
+    font-family: Roboto Serif;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+
+
+
+/*------------------------------------------media qurey-----------------------------------------------*/
+@media (min-width:320px) and (max-width:480px) {
+
+    /*-----------------------------------------services section 1--------------------------------------------------------*/
+    .services-section-1 {
+        height: auto;
+        width: 100%;
+    }
+
+
+    .about-section-1-logo {
+        margin-bottom: 0%;
+        font-size: 1.2rem;
+    }
+
+    /* .about-section-1-nav-links {
+        display: block;
+        margin-left: 13%;
+    }
+
+    .about-section-1-nav-links a {
+        font-size: 1rem;
+        margin-left: -39%;
+    } */
+
+    .services-section-1-left-side-col1 {
+        display: block;
+    }
+
+    .services-section-1-left-side-title1 {
+        font-size: 3rem;
+        margin-top: 20%;
+        margin-bottom: -8%;
+    }
+
+    .services-section-1-left-side-title2 {
+        font-size: 3rem;
+    }
+
+    .services-section-1-left-side-paragraph {
+        font-size: 1rem;
+        margin-right: 0%;
+    }
+
+    .services-section-1-left-side-paragraph-button {
+        width: 40%;
+        height: 9%;
+        font-size: 1rem;
+        padding: 2%;
+    }
+
+    .services-section-1-right-side-col2 {
+        display: block;
+    }
+
+    .services-section-1-right-side-col1-img {
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    /*------------------------------------------services section 2--------------------------------------------*/
+    .services-section-2 {
+        height: auto;
+        width: 100%;
+    }
+
+    .services-section-1-title {
+        font-size: 2.1rem;
+    }
+
+    .services-section-2-main-images {
+        display: block;
+    }
+
+    .services-section-2-main-image1 img {
+        margin-left: 0%;
+        width: 100%;
+    }
+
+    .services-section-2-main-image1-title {
+        font-size: 1.2rem;
+
+    }
+
+    .services-section-2-main-image2 img {
+        width: 100%;
+    }
+
+    .services-section-2-main-image2-title {
+        font-size: 1.2rem;
+    }
+
+    .services-section-2-main-image3 img {
+        width: 100%;
+    }
+
+    .services-section-2-main-image3-title {
+        font-size: 1.2rem;
+    }
+
+    /*----------------------------------------------services section 3------------------------------------------------*/
+    .services-section-3 {
+        height: auto;
+        width: 100%;
+    }
+
+    .services-section-3-right-top-image {
+        display: block;
+    }
+
+    .line-hr-section-3 {
+        margin-left: 8%;
+        width: 90%;
+        margin-top: 1.5%;
+    }
+
+    .services-section-3-main-content {
+        display: block;
+    }
+
+    .services-section-3-right-side {
+        display: block;
+    }
+
+    .services-section-3-right-side-title {
+        font-size: 2.1rem;
+        margin-left: 0%;
+    }
+
+
+    .services-section-3-right-side-paragraph {
+        font-size: 1rem;
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+
+    .services-section-3-right-side-checklist {
+        font-size: 1.2rem;
+    }
+
+    .checklist {
+        font-size: 0.8rem;
+        margin-left: -7%;
+    }
+
+    .checklist li {
+        margin-bottom: 2%;
+    }
+
+    .checklist li::before {
+        width: 4%;
+        height: 3%;
+    }
+
+    .services-section-3-right-side {
+        display: block;
+    }
+
+    .services-section-3-right-side img {
+        width: 100%;
+        margin-top: 4%;
+    }
+
+    /*--------------------------------------------service section 4- family law----------------------------------------------------------*/
+    .services-section-4-familylaw {
+        height: auto;
+        width: 100%;
+    }
+
+    .services-section-4-title {
+        font-size: 2.1rem;
+    }
+
+    .services-section-4-paragraph {
+        font-size: 0.9rem;
+        margin-left: 5%;
+    }
+
+    .services-section-4-col1 {
+        margin-left: 0%;
+    }
+
+    .services-section-4-col1-image {
+        margin-left: 30%;
+    }
+
+    .box1,
+    .box2,
+    .box3,
+    .box4 {
+        display: block;
+        flex-direction: column;
+    }
+
+    .services-section-4-col1-paragraph {
+
+        margin-left: 5%;
+        margin-right: 0%;
+    }
+
+    .services-section-4-col2-paragraph {
+        margin-left: 7%;
+        margin-right: 5%;
+    }
+
+    .services-section-4-col3-paragraph {
+        margin-left: 10%;
+        margin-right: 6%;
+    }
+
+    .services-section-4-col4-paragraph {
+        margin-left: 10%;
+        margin-right: 5%;
+    }
+
+    /*--------------------------------------servces section 5----------------------------------------------------------*/
+    .services-section-5 {
+        height: auto;
+        width: 100%;
+    }
+
+    .services-section-5-right-top-image img {
+        padding-top: 2%;
+        margin-left: 5%;
+    }
+
+    .services-section-5-title {
+        font-size: 2.1rem;
+        margin-left: 5%;
+        margin-top: 1%;
+    }
+
+    .services-section-4-paragraph {
+        font-size: 1.2rem;
+        margin-left: 5%;
+    }
+
+    .line-hr-section-5 {
+        margin-left: 5%;
+        width: 90%;
+        margin-top: 1.5%;
+    }
+
+    .services_arrow_img1 {
+        margin-top: -64%;
+        margin-left: 2%;
+        width: 5%;
+    }
+
+    .services_arrow_img2 {
+        margin-top: -64%;
+        margin-left: 2%;
+        width: 5%;
+    }
+
+    .services_arrow_img3 {
+        margin-top: -48%;
+        margin-left: 2%;
+        width: 5%;
+    }
+
+    .services_arrow_img4 {
+        margin-top: -47%;
+        margin-left: 2%;
+        width: 5%;
+    }
+
+    .list1 p {
+        margin-left: 0%;
+        margin-right: 0%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+
+    .services-section-5-form {
+        margin-left: 2%;
+        margin-right: 0%;
+        margin-top: 3%;
+        width: 96%;
+    }
+
+    .services-section-5-form-title {
+        font-size: 1.5rem;
+
+    }
+
+    .services-section-5-paragraph {
+        font-size: 1rem;
+    }
+
+    .form {
+        margin-left: 0%;
+    }
+
+    .form input {
+        padding: 4%;
+        font-size: 0.9rem;
+        width: 100%;
+    }
+
+    .form button {
+        font-size: 0.9rem;
+        padding: 2.5%;
+        padding-right: 25%;
+        margin-right: 1%;
+    }
+
+    /* -----------------------------------footer section-------------------------------*/
+    .footer {
+        height: auto;
+        width: 100%;
+    }
+
+    .column-1-header {
+        font-size: 1.6rem;
+    }
+
+    .column-2-header {
+        margin-left: 6%;
+    }
+
+    .column-3-header {
+        margin-left: 6%;
+        margin-top: -22%;
+    }
+
+    .list {
+        margin-right: -8%;
+        margin-left: -14%;
+    }
+
+    .recent-news {
+        padding-left: 30%;
+    }
+
+    .links {
+        padding-left: 40%;
+    }
+}
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+    /*-----------------------------------------services section 1--------------------------------------------------------*/
+    .services-section-1 {
+        height: auto;
+        width: 100%;
+    }
+
+    /* .about-section-1-logo {
+        margin-left: 9%;
+        font-size: 1.2rem;
+    } */
+    .services-section-1-title p {
+        font-size: 2.2rem;
+    }
+
+    .about-section-1-nav-links {
+        margin-top: -2%;
+        margin-left: -2%;
+    }
+
+    .about-section-1-nav-links a {
+        font-size: 1.2rem;
+    }
+
+    .services-section-1-left-side-col1 {
+        display: block;
+    }
+
+    .services-section-1-left-side-title1 {
+        font-size: 4rem;
+        margin-top: 26%;
+    }
+
+    .services-section-1-left-side-title2 {
+        font-size: 4rem;
+    }
+
+    .services-section-1-left-side-paragraph {
+        font-size: 1.2rem;
+        margin-right: 0%;
+    }
+
+    .services-section-1-left-side-paragraph-button {
+        width: 37%;
+        height: 10%;
+        font-size: 1.2rem;
+        padding: 3%;
+    }
+
+    .services-section-1-right-side-col2 {
+        display: block;
+    }
+
+    .services-section-1-right-side-col1-img {
+        margin-bottom: 19%;
+        height: 100%;
+        margin-left: 0%;
+    }
+
+    /*------------------------------------------services section 2--------------------------------------------*/
+    .services-section-2 {
+        height: auto;
+        width: 100%;
+    }
+
+    .services-section-1-title {
+        font-size: 3rem;
+    }
+
+    .services-section-2-main-images {
+        display: block;
+    }
+
+    .services-section-2-main-image1 img {
+        margin-left: 0%;
+        width: 100%;
+    }
+
+    .services-section-2-main-image1-title {
+        font-size: 1.5rem;
+
+    }
+
+    .services-section-2-main-image2 img {
+        width: 100%;
+    }
+
+    .services-section-2-main-image2-title {
+        font-size: 1.5rem;
+    }
+
+    .services-section-2-main-image3 img {
+        width: 100%;
+    }
+
+    .services-section-2-main-image3-title {
+        font-size: 1.5rem;
+    }
+
+    /*----------------------------------------------services section 3------------------------------------------------*/
+    .services-section-3 {
+        height: auto;
+        width: 100%;
+    }
+
+    .services-section-3-right-top-image {
+        display: block;
+    }
+
+    .line-hr-section-3 {
+        margin-left: 1%;
+    }
+
+    .services-section-3-main-content {
+        display: block;
+    }
+
+    .services-section-3-right-side {
+        display: block;
+    }
+
+    .services-section-3-right-side-title {
+        font-size: 2.2rem;
+        margin-left: 0%;
+    }
+
+
+    .services-section-3-right-side-paragraph {
+        margin-left: 0%;
+        margin-right: 0%;
+        font-size: 1.5rem;
+    }
+
+    .services-section-3-right-side-checklist {
+        font-size: 1.2rem;
+    }
+
+    .checklist {
+        margin-left: -8%;
+        font-size: 1rem;
+    }
+
+    .checklist li {
+        margin-bottom: 2%;
+    }
+
+    .checklist li::before {
+        width: 5%;
+        height: 5%;
+    }
+
+    .services-section-3-right-side {
+        display: block;
+    }
+
+    .services-section-3-right-side img {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    /*--------------------------------------------service section 4- family law----------------------------------------------------------*/
+    .services-section-4-familylaw {
+        height: auto;
+        width: 100%;
+    }
+
+    .services-section-4-title {
+        font-size: 2.2rem;
+    }
+
+    .services-section-4-paragraph {
+        font-size: 1.2rem;
+    }
+
+    .services-section-4-col1 {
+        margin-left: 0%;
+    }
+
+    .services-section-4-col1-image {
+        margin-left: 36%;
+        margin-bottom: -14%;
+    }
+
+    .content-box1 {
+        width: 70%;
+        margin-left: 15%;
+    }
+
+    .box1,
+    .box2,
+    .box3,
+    .box4 {
+        display: block;
+        flex-direction: column;
+    }
+
+    .services-section-4-col1-title {
+        margin-left: 14%;
+        margin-right: 12%;
+        margin-top: 29%;
+    }
+
+    .services-section-4-col1-paragraph {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .services-section-4-col2-title {
+        margin-left: 21%;
+        margin-right: 20%;
+        margin-top: 33%;
+    }
+
+    .services-section-4-col2-paragraph {
+        margin-left: 4%;
+        margin-right: 4%;
+    }
+
+    .services-section-4-col3-title {
+        margin-left: 20%;
+        margin-right: 20%;
+        margin-top: 32%;
+    }
+
+    .services-section-4-col3-paragraph {
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+
+    .services-section-4-col4-title {
+        margin-left: 33%;
+        margin-right: 36%;
+        margin-top: 32%;
+    }
+
+
+    .services-section-4-col4-paragraph {
+        margin-left: 5%;
+        margin-right: 4%;
+    }
+
+    /*--------------------------------------servces section 5----------------------------------------------------------*/
+    .services-section-5 {
+        height: auto;
+        width: 100%;
+    }
+
+    .services-section-5-title {
+        font-size: 2.2rem;
+    }
+
+    .services-section-4-paragraph {
+        font-size: 1.2rem;
+    }
+
+    .services_arrow_img1,
+    .services_arrow_img2,
+    .services_arrow_img3,
+    .services_arrow_img4 {
+        margin-top: -32%;
+        margin-left: 2%;
+        width: 4%;
+    }
+
+    .services-section-5-form {
+        width: 83%;
+        margin-left: 9%;
+    }
+
+    .services-section-5-form-title {
+        font-size: 1.8rem;
+    }
+
+    .services-section-5-paragraph {
+        font-size: 0.9rem;
+    }
+
+    .form {
+        margin-left: 2%;
+    }
+
+    .form button {
+        font-size: 0.9rem;
+    }
+
+    .list1 p {
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+
+    /* -----------------------------------footer section-------------------------------*/
+    .footer {
+        height: auto;
+        width: 100%;
+    }
+
+    .column-1-header {
+        margin-left: 12%;
+    }
+
+    .column-1-paragraph {
+        margin-left: 12%;
+    }
+
+    .column-2-header {
+        margin-left: 19%;
+    }
+
+    .recent-news {
+        margin-left: 14%;
+    }
+
+    .column-3-header {
+        margin-left: 20%;
+        padding-top: 1%;
+    }
+
+    .links {
+        margin-left: 28%;
+    }
+
+}
+
+@media (min-width:768px) and (max-width:1024px) {
+
+    /*-----------------------------------------services section 1--------------------------------------------------------*/
+    .services-section-1 {
+        height: auto;
+        width: 100%;
+    }
+
+    .about-section-1-logo {
+        margin-left: 2%;
+        font-size: 1.2rem;
+        padding-top: 1%;
+        margin-left: 40%;
+    }
+
+    .about-section-1-nav-links {
+        display: flex;
+        justify-content: space-around;
+        margin-right: 5%;
+    }
+
+    .about-section-1-nav-links a {
+        font-size: 1.1rem;
+    }
+
+    .services-section-1-left-side-col1 {
+        display: flex;
+    }
+
+    .services-section-1-left-side-title1 {
+        font-size: 3.5rem;
+        margin-top: 53%;
+        line-height: 50px;
+    }
+
+    .services-section-1-left-side-title2 {
+        font-size: 3.5rem;
+    }
+
+    .services-section-1-left-side-paragraph {
+        font-size: 1rem;
+        margin-right: 0%;
+    }
+
+    .services-section-1-left-side-paragraph-button {
+        width: 30%;
+        height: 7%;
+        font-size: 1.2rem;
+        padding: 2%;
+        margin-top: 0%;
+    }
+
+    .services-section-1-right-side-col2 {
+        display: flex;
+    }
+
+    .services-section-1-right-side-col1-img {
+        width: 100% !important;
+    }
+
+    /*------------------------------------------services section 2--------------------------------------------*/
+    .services-section-2 {
+        height: auto;
+        width: 100%;
+    }
+
+    .services-section-1-title {
+        font-size: 2.5rem;
+    }
+
+    .services-section-2-main-images {
+        display: block;
+    }
+
+    .services-section-2-main-image1 img {
+        margin-left: 0%;
+        width: 100%;
+    }
+
+    .services-section-2-main-image1-title {
+        font-size: 1.2rem;
+
+    }
+
+    .services-section-2-main-image2 img {
+        width: 100%;
+    }
+
+    .services-section-2-main-image2-title {
+        font-size: 1.2rem;
+    }
+
+    .services-section-2-main-image3 img {
+        width: 100%;
+    }
+
+    .services-section-2-main-image3-title {
+        font-size: 1.2rem;
+    }
+
+    /*----------------------------------------------services section 3------------------------------------------------*/
+    .services-section-3 {
+        height: auto;
+        width: 100%;
+    }
+
+    .services-section-3-right-top-image {
+        display: flex;
+        margin-left: 4%;
+    }
+
+    .line-hr-section-3 {
+        margin-left: 4%;
+    }
+
+    .services-section-3-main-content {
+        display: flex;
+    }
+
+    .services-section-3-right-side {
+        display: flex;
+    }
+
+    .services-section-3-right-side-title {
+        font-size: 2.5rem;
+        margin-left: 4%;
+    }
+
+
+    .services-section-3-right-side-paragraph {
+        margin-left: 4%;
+        margin-right: 0%;
+        font-size: 1rem;
+    }
+
+    .services-section-3-right-side-checklist {
+        font-size: 1rem;
+    }
+
+    .checklist {
+        margin-left: -6%;
+        font-size: 0.8rem;
+    }
+
+    .checklist li {
+        margin-bottom: 2%;
+    }
+
+    .checklist li::before {
+        width: 5%;
+        height: 5%;
+    }
+
+    .services-section-3-right-side {
+        display: flex;
+
+    }
+
+    .services-section-3-right-side img {
+        margin-top: -12%;
+        width: 100%;
+    }
+
+    /*--------------------------------------------service section 4- family law----------------------------------------------------------*/
+    .services-section-4-familylaw {
+        height: auto;
+        width: 100%;
+    }
+
+
+    .services-section-4-col1-image {
+        margin-bottom: -22%;
+        margin-left: 31%;
+    }
+
+    .services-section-4-col1-title {
+        font-size: 1rem;
+        margin-left: 10%;
+        margin-right: 15%;
+    }
+
+    .services-section-4-col1-paragraph {
+        font-size: 0.9rem;
+        margin-left: 5%;
+        margin-right: 4%;
+        padding: 1%;
+    }
+
+    .services-section-4-col2-title {
+        font-size: 1rem;
+        margin-left: 21%;
+        margin-right: 21%;
+    }
+
+    .services-section-4-col2-paragraph {
+        font-size: 0.9rem;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: 1%;
+    }
+
+    .services-section-4-col3-title {
+        font-size: 1rem;
+        margin-left: 21%;
+        margin-right: 19%;
+    }
+
+    .services-section-4-col3-paragraph {
+        font-size: 0.9rem;
+        margin-left: 5%;
+        margin-right: 2%;
+        padding: 1%;
+    }
+
+    .services-section-4-col4-title {
+        font-size: 1rem;
+        margin-left: 34%;
+        margin-right: 36%;
+    }
+
+    .services-section-4-col4-paragraph {
+        font-size: 0.9rem;
+        margin-left: 10%;
+        margin-right: 12%;
+        padding: 1%;
+    }
+
+    /*--------------------------------------servces section 5----------------------------------------------------------*/
+    .services-section-5 {
+        height: auto;
+        width: 100%;
+    }
+
+    .services-section-5-title {
+        font-size: 2.1rem;
+    }
+
+    .services-section-4-paragraph {
+        font-size: 1rem;
+    }
+
+    .services_arrow_img1,
+    .services_arrow_img2,
+    .services_arrow_img3,
+    .services_arrow_img4 {
+        margin-top: -50%;
+        margin-left: -93%;
+        width: 9%;
+    }
+
+    .services_arrow_img1,
+    .services_arrow_img2,
+    .services_arrow_img3,
+    .services_arrow_img4 {
+        margin-top: -58%;
+        margin-left: -160%;
+        width: 9%;
+    }
+
+    .list1 p {
+        padding: 3% 2%;
+        margin-left: -164%;
+        margin-right: -164%;
+        margin-bottom: 10%;
+        padding-left: 14%;
+    }
+
+    .form {
+        margin-left: 0%;
+    }
+
+
+    .services-section-5-form {
+        margin-left: 20%;
+        margin-top: 3%;
+    }
+
+    .form button {
+        font-size: 0.7rem;
+        padding: 2.5%;
+        padding-right: 5%;
+        margin-right: 1%;
+    }
+
+    /* -----------------------------------footer section-------------------------------*/
+    .footer {
+        height: auto;
+        width: 100%;
+    }
+
+    .column-1-header {
+        padding-left: 16%;
+        padding-top: 19%;
+        font-size: 1.7rem;
+    }
+
+    .column-3-header {
+        margin-top: 1%;
+    }
+
+    .column-1-paragraph {
+        margin-top: 25%;
+        margin-left: -6%;
+    }
+
+    .list {
+        margin-left: 0%;
+        margin-right: -48%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:425px) and (max-width:480px) {
+
+    /*-------------------------------------section services- family law-----------------------------------------------------*/
+    .services_arrow_img1,
+    .services_arrow_img2,
+    .services_arrow_img3,
+    .services_arrow_img4 {
+        margin-top: -37%;
+    }
+}
